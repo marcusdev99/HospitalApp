@@ -1,0 +1,15 @@
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/entities/Doctor.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/service/impl/SurgeryServiceImpl.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/service/AppointmentService.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/controller/SurgeryController.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/entities/Surgery.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/service/impl/DoctorServiceImpl.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/repository/AppointmentRepository.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/controller/DoctorController.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/service/SurgeryService.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/service/DoctorService.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/service/impl/AppointmentServiceImpl.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/HospitalAppApplication.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/entities/Appointment.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/repository/DoctorRepository.java
+/Users/marcusgonzalez/Documents/springboot-workspace/HospitalApp/src/main/java/com/kosmos/HospitalApp/repository/SurgeryRepository.java
